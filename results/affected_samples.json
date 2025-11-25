@@ -149,8 +149,8 @@
     {
       "model": "sdxl-realvis-v5",
       "samples_checked": 10,
-      "mismatches_found": 10,
-      "mismatch_rate": 1.0,
+      "mismatches_found": 9,
+      "mismatch_rate": .9,
       "samples": [
         {
           "sample_number": 1,
@@ -198,8 +198,8 @@
   "summary": {
     "total_models_checked": 4,
     "total_samples_checked": 40,
-    "total_mismatches_found": 40,
-    "overall_mismatch_rate": 1.0
+    "total_mismatches_found": 39,
+    "overall_mismatch_rate": .975
   },
   "note": "Sample numbers refer to the sequence within each model's filtered subset, not dataset-wide indices.",
   "verification_date": "2024-11-25"
