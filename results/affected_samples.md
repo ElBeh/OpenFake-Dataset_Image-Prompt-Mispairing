@@ -1,6 +1,6 @@
 # Affected Samples - Image-Prompt Mismatches
 
-This document lists all samples from the systematic model check showing incorrect image-prompt pairings in the OpenFake dataset.
+This document lists all [samples](screenshots) from the systematic model check showing incorrect image-prompt pairings in the OpenFake dataset.
 
 **Note:** Sample numbers refer to the sequence within each model's filtered subset (not dataset-wide indices).
 
