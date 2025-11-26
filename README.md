@@ -18,7 +18,7 @@ See [`notebooks/OpenFake_Image_Prompt_Mispairing.ipynb`](notebooks/OpenFake_Imag
 - Shows complete mismatch between images and prompts
 
 ### Systematic Check
-See [affected samples](/results/affected_samples.md) for further information (Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb))
+See [affected models](/results/affected_samples.md) for further information (Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb))
 - Verifies first 10 samples per affected model (human verification)
 - Images are saved in [results/Screenshots](results/screenshots)
 - Confirms 97,5% mispairing rate for these models
