@@ -10,7 +10,7 @@ This document lists all [samples](screenshots) from the systematic model check s
 
 ### Sample 1
 **Prompt:** A photograph captures a tense scene where barricades set ablaze by protesters are shown in front of a building, with no visible individuals in the frame.
-
+![Beschreibung](./screenshots/flux_1-dev/sample1.png)
 ### Sample 2
 **Prompt:** A professional photograph of an older man wearing glasses, a suit, and a red tie, set against a dark background with text overlay promoting financial advice from Retire29.com.
 
