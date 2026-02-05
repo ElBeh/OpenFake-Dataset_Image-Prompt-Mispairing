@@ -6,7 +6,7 @@ Systematic image-prompt mispairing affecting multiple models in the [OpenFake da
 
 ## Findings
 - **12 verified mislabeled samples** across 4 models
-- ** almost 100% mismatch rate** when filtering by affected models
+- ***almost 100% mismatch rate*** when filtering by affected models
 - **Affected models:** flux.1-dev, sd-3.5, sdxl-realvis-v5, sd-1.5-dreamshaper
 - **Other models appear correct**
 
