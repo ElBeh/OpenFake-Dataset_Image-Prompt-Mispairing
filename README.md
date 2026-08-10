@@ -1,6 +1,8 @@
 # OpenFake Dataset - Image-Prompt Mispairing Report
 Two Notebooks to demonstrate the mispairing of four models in the dataset.
 
+> **Update:** This issue has been resolved by the maintainers in the v2 release of the OpenFake dataset. This repository remains available as documentation of the original finding.
+
 ## Critical Issue
 Systematic image-prompt mispairing affecting multiple models in the [OpenFake dataset](https://huggingface.co/datasets/ComplexDataLab/OpenFake).
 
